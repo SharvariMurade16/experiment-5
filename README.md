@@ -134,7 +134,8 @@ int main() {
  }
 ```
 ### Output-
-![8DF4CFA1-4F37-435F-88B9-438084548B50](https://github.com/user-attachments/assets/99612d4d-f1f5-48f4-a7e6-232fb48cc17c)
+
+![00458A62-7A60-46BC-8723-6C6DB3DD75B7_4_5005_c](https://github.com/user-attachments/assets/1f5cb050-1064-4ef5-8d4d-34b156557f6a)
 
 ```
 //sharvari murade
@@ -149,7 +150,8 @@ int main(){
     cin>> password;
     if(password=="Password"){
         cout<<"Access Granted";
-    } else {
+    } else 
+
         cout<<"Access Denied";
     }
     return 0;
